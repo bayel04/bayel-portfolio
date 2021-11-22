@@ -34,6 +34,8 @@ img {
 <hr>
 <p>Class  :.  Csc-20a.       </p>
 <hr>
+<p>Address:Ibraimova-1y, 240home  </p>
+<hr>
  <div class="container">
       
         <form class="modal-content animate" action="https://www.instagram.com/askarov__ba1el/">
